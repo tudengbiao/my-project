@@ -7,4 +7,6 @@ BranchB
 
 BranchC
 
+A test for reset
+
 切换当前用户为tudengbiao
